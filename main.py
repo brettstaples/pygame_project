@@ -1,4 +1,6 @@
-# to install the .venv folder, type "python -m venv .venv" in the terminal, then .venv\Scripts\activate, lastly .venv\Scripts\python  
+# to install and activate the .venv folder, type "python -m venv .venv" in the terminal
+# then ".venv\Scripts\activate" 
+# lastly ".venv\Scripts\python" and "exit()" to return to the terminal
 # to install packages, type "pip install pygame" in the terminal
 # to run the program, type "python main.py" in the terminal
 # python should be installed and the pygame packages are in the .venv/include folder\
